@@ -1,0 +1,37 @@
+
+.App {
+  text-align: center;
+  margin-top: 20px;
+  /* background-color: rgb(230, 230, 36); */
+  /* height: 700px; */
+  /* box-shadow: 10px 0px 10px; */
+  /* border: solid 2px black; */
+  
+  }
+
+ 
+.form{
+  margin-top: 100px;
+ margin-left: 550px;
+  width: 400px;
+  height: 600px;
+  border: solid 2px red;
+  background-color: rgb(52, 229, 235);
+}
+
+
+#table1{
+  margin-left: -300px;
+  
+}
+
+.Table{
+  margin-top: 50px;
+  margin-left: 400px;
+  color: rgb(7, 245, 43);
+ 
+  
+}
+
+
+
