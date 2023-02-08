@@ -12,7 +12,7 @@ export const SchoolForm = () => {
       FirstName: name,
       mobile: mobile,
       email: email,
-      Password: password, 
+      Password: password,  
     };
     setData([...data, obj]);
   };

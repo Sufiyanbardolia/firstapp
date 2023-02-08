@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import './Todo.css';
 import Form from "./Form"
 import {Table} from "./Table"
 import { MaterialForm } from './MaterialForm';
@@ -9,8 +10,7 @@ import { StateMang } from './StateMang';
 import { SchoolForm } from './SchoolForm';
 import { Todo } from './TodoList';
 // import { Materialcard2 } from './Materialcard2';
-
-
+import { Todolist } from './TodoList';
 
 function App() {
   return ( 
@@ -22,10 +22,11 @@ function App() {
       <Form/> */}
       {/* <Gridtask/> */}
       {/* <MaterialForm/> */}
-      <SchoolForm/>
+      {/* <SchoolForm/> */}
       {/* <StateMang/> */}
       {/* <Materialcard/> */}
       {/* <Todo/> */}
+     <Todolist/>
      
      
 
